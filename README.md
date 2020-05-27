@@ -9,8 +9,8 @@ There are two variations of the ZX Spectrum version, but 10 images don't fit int
 
 ## Processed
 
-![Preview Image Processed](/Previews/Preview_Processed.png)
+[![Preview Image Processed](/Previews/Preview_Processed.png)](PNG/Processed)
 
 ## Clean
 
-![Preview Image Clean](/Previews/Preview_Clean.png)
+[![Preview Image Clean](/Previews/Preview_Clean.png)](PNG/Clean)
