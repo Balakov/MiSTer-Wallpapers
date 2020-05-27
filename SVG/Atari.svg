@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2732 1536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-5002.87)">
+        <g id="Atari" transform="matrix(1,0,0,0.75,-14300,5002.87)">
+            <rect x="14300" y="0" width="2732" height="2048" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="14300" y="0" width="2732" height="2048"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.30731,0,0,2.3113,13991.9,-2728.78)">
+                    <rect x="233.856" y="1173.69" width="2098.02" height="893.022" style="fill:url(#_Radial2);"/>
+                </g>
+                <g transform="matrix(2.04791,0,0,2.73055,13576.9,-3499.11)">
+                    <path d="M1428.09,1771.65L1528.32,1851.18L1618.11,1889.76L1691.22,1889.76L1691.22,2031.5L353.087,2031.5L353.087,1889.76L909.449,1889.76L1027.46,1829.38L1133.86,1771.65L1133.86,1275.59L1428.09,1275.59L1428.09,1771.65Z" style="fill:rgb(79,185,63);"/>
+                </g>
+                <g transform="matrix(2.04791,0,0,2.73055,13576.9,-3499.11)">
+                    <path d="M944.882,1771.65C1010.11,1771.65 1062.99,1718.77 1062.99,1653.54L1181.1,1653.54C1181.1,1784 1075.34,1889.76 944.882,1889.76L353.087,1889.76L353.087,1771.65L944.882,1771.65ZM1585.04,1889.76C1454.58,1889.76 1348.82,1784 1348.82,1653.54L1466.93,1653.54C1466.93,1718.77 1519.81,1771.65 1585.04,1771.65L1691.22,1771.65L1691.22,1889.76L1585.04,1889.76ZM1181.1,1653.54L1181.1,1275.59L1062.99,1275.59L1062.99,1653.54L1181.1,1653.54ZM1466.93,1653.54L1466.93,1275.59L1348.82,1275.59L1348.82,1653.54L1466.93,1653.54Z" style="fill:rgb(10,155,75);"/>
+                </g>
+                <g transform="matrix(2.15526,-3.36567e-32,5.0485e-32,5.13622,12768.1,-1629.3)">
+                    <rect x="1385.31" y="314.095" width="383.821" height="401.86" style="fill:rgb(195,217,88);"/>
+                </g>
+                <g transform="matrix(2.04791,0,0,2.73055,13576.9,-3499.11)">
+                    <path d="M1322.84,2031.5L1322.84,1275.59L1204.72,1275.59L1204.72,2031.5L1322.84,2031.5ZM1466.93,1653.54L1466.93,1858.08C1396.31,1817.3 1348.82,1740.97 1348.82,1653.54L1466.93,1653.54ZM1062.99,1653.54L1181.1,1653.54C1181.1,1740.97 1133.61,1817.3 1062.99,1858.08L1062.99,1653.54ZM1181.1,1275.59L1181.1,1653.54L1062.99,1653.54L1062.99,1275.59L1181.1,1275.59ZM1466.93,1653.54L1348.82,1653.54L1348.82,1275.59L1466.93,1275.59L1466.93,1653.54Z" style="fill:rgb(124,198,71);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-874.511,-283.263,244.494,-1013.18,1149.18,1517.76)"><stop offset="0" style="stop-color:rgb(225,238,233);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(167,219,208);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
